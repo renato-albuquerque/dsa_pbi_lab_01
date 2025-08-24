@@ -9,4 +9,9 @@ mundo.
 ![Perguntas/Questions](files/questions.PNG)
 
 ## Dataviz
-Em desenvolvimento ...
+![Dashboard](files/dashboard.PNG)
+<br>
+
+[Ver Dashboard online.](https://app.powerbi.com/view?r=eyJrIjoiY2NmZmUxMTgtMDBiNC00OWNlLWI5MmItMTdjNzAxYzk3ZjNmIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)
+
+[End]
